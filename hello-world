@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <title>Hi, my name is hemanth</title>
 
   <style>
@@ -137,7 +138,7 @@
 <body>
 
   <div class="card">
-    <h1>Hello, World! 👋</h1>
+    <h1>Hi, my name is hemanth! 👋</h1>
     <p>Welcome to my first HTML page.</p>
     <a href="#" class="btn">🚀 Get Started</a>
   </div>
